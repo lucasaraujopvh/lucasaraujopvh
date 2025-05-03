@@ -1,11 +1,11 @@
 ## Hello, there ✌️
 
-My name is Lucas and I am a full-stack web developer from Rondônia, Porto Velho.  
+My name is Lucas and I am a full-stack web developer from Porto Velho, Rondônia.
 I like programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
-<a href="#">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="335" height="243" align="right" alt="Hello, there!">
-</a>
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="335" height="243" align="right" alt="Hello, there!">
+
 
 ### Here's some of the stuff I like to use
 
@@ -31,3 +31,7 @@ In the back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+
+---
+
+Thanks for visiting! Feel free to connect or check out my projects 👇
